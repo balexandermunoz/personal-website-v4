@@ -256,18 +256,18 @@ const StyledProject = styled.li`
     a {
       width: 100%;
       height: 100%;
-      background-color: var(--green);
+      background-color: transparent;
       border-radius: var(--border-radius);
       vertical-align: middle;
 
       &:hover,
       &:focus {
-        background: transparent;
+        background: var(--green);
+        filter: grayscale(100%) contrast(1) brightness(90%);
         outline: 0;
 
         &:before,
         .img {
-          background: transparent;
           filter: none;
         }
       }
@@ -291,7 +291,6 @@ const StyledProject = styled.li`
     .img {
       border-radius: var(--border-radius);
       mix-blend-mode: multiply;
-      filter: grayscale(100%) contrast(1) brightness(90%);
 
       @media (max-width: 768px) {
         object-fit: cover;
