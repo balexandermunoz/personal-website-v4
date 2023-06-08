@@ -3,6 +3,7 @@
   "description": "Personal Website V4",
   "version": "1.0.0",
   "author": "Brayan Muñoz <balexander.munoz@udea.edu.co>",
+  "homepage": "http://balexandermunoz.github.io/personal-website-v4",
   "repository": {
     "type": "git",
     "url": "https://github.com/bchiang7/v4"
@@ -19,7 +20,8 @@
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "deploy": "gatsby build && gh-pages -d public -b master",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d public",
     "prepare": "husky install",
     "lint-staged": "lint-staged"
   },
