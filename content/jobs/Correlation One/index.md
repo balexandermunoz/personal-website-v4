@@ -1,5 +1,5 @@
 ---
-date: '2018-05-14'
+date: '2'
 title: 'Data Scientist'
 company: 'Correlation One'
 location: 'Remote'

@@ -1,5 +1,5 @@
 ---
-date: '2018-05-14'
+date: '3'
 title: 'Python Developer'
 company: 'guane Enterprises'
 location: 'Remote'

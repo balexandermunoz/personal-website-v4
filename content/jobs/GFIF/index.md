@@ -1,5 +1,5 @@
 ---
-date: '2018-05-14'
+date: '1'
 title: 'FullStack Developer'
 company: 'GFIF'
 location: 'Medellín, Col'
