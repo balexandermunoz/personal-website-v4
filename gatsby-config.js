@@ -1,6 +1,7 @@
 const config = require('./src/config');
 
 module.exports = {
+  pathPrefix: '/personal-website-v4',
   siteMetadata: {
     title: 'B. Alexander',
     description: 'Brayan Muñoz is a physicist, data scientist and software developer.',
