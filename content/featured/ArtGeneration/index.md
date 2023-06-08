@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '2'
 title: 'Art Generation with Neural Style Transfer'
 cover: './perspolis_vangogh.png'
 github: 'https://github.com/balexandermunoz/Art_Generation_with_Neural_Style_Transfer'

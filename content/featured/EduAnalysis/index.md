@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '1'
 title: 'Education analysis Colombia'
 cover: './data.png'
 external: 'https://github.com/balexandermunoz/ds4a-icfes'

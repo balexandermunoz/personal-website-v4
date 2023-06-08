@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '3'
 title: 'Rick And Morty Fanpage'
 cover: './RickandMorty.jpeg'
 github: 'https://github.com/balexandermunoz/Rick-And-Morty-Fanpage'
