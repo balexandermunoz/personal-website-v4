@@ -1,11 +1,10 @@
 const config = require('./src/config');
 
 module.exports = {
-  pathPrefix: '/personal-website-v4',
   siteMetadata: {
     title: 'B. Alexander',
     description: 'Brayan Muñoz is a physicist, data scientist and software developer.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+    siteUrl: 'https://brayanelbakyan.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@bchiang7',
   },
