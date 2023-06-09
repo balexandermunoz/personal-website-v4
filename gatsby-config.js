@@ -3,7 +3,7 @@ const config = require('./src/config');
 module.exports = {
   siteMetadata: {
     title: 'B. Alexander',
-    description: 'Brayan Muñoz is a physicist, data scientist and software developer.',
+    description: 'Brayan Elbakyan is a physicist, data scientist and software developer.',
     siteUrl: 'https://brayanelbakyan.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@bchiang7',
