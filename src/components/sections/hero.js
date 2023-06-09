@@ -60,12 +60,12 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">B. Alexander</h2>;
+  const two = <h2 className="big-heading">Alexander</h2>;
   const three = <h3 className="big-heading">I'm a physicist. I love coding.</h3>;
   const four = (
     <>
       <p>
-        I'm Brayan, a physicist with a special interest in Data Science and software development.
+        I'm Alexander, a physicist with a special interest in Data Science and software development.
         Python is my preferred programming language. I'm highly skilled in mathematical modeling,
         data analysis, algorithm development, and machine learning. In fact, I've completed two
         specializations, the first one on Machine Learning and the other in Natural Language
